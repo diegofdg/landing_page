@@ -570,7 +570,6 @@ body {
     .footer__input {
         flex: 1;
     }
-
 }
 
 @media (max-width:600px) {
@@ -619,7 +618,7 @@ body {
     .questions__title {
         font-size: 1rem;
     }
-    
+
     .footer__title {
         justify-self: start;
         margin-bottom: 15px;
@@ -646,12 +645,6 @@ body {
     .footer__submit {
         margin-right: auto;
         margin-left: 0;
-        
-
-        /* 
-        margin:0;
-        width: 100%;
-        */
     }
-    
+
 }
