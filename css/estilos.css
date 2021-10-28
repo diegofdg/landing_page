@@ -302,3 +302,12 @@ body {
     width: 90%;
     cursor: pointer;
 }
+
+.questions {
+    text-align: center;
+}
+
+.questions__container {
+    display: grid;
+    gap: 2em;
+}
