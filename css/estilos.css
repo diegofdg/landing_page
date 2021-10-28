@@ -291,6 +291,13 @@ body {
     max-width: 700px;
 }
 
+.testimony__course {
+    background-color: royalblue;
+    color: #FFFFFF;
+    display: inline-block;
+    padding: 5px;
+}
+
 .testimony__arrow {
     width: 90%;
     cursor: pointer;
